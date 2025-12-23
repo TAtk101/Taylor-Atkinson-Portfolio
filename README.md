@@ -25,7 +25,7 @@ I am a recent graduate with Bachelors in Computer Science and a profound interes
 
 ## Certifications
 <div>
-
+  <img src="https://img.shields.io/badge/-MTA%20Security%20Fundamentals-107C10?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 ## Projects
