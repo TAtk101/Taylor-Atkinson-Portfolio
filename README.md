@@ -9,7 +9,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Data Visualization for IT Operations          | <a href="https://github.com/TAtk101/IT-Operations-Dashboard">IT Operations Dashboard</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| IT Endpoint Health Monitoring | <a href="https://github.com/TAtk101/System-Health-Security-Log-Monitoring">System Health Monitor</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
