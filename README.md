@@ -1,7 +1,7 @@
 # Hello, I'm Taylor Atkinson
 <a href="https://linkedin.com/in/taylor-a-812021216"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. This portfolio includes hands-on IT Analyst projects focused on incident management, system monitoring, access control, and IT operations analysis.
+I am a recent graduate with Bachelors in Computer Science and a profound interest in technology and a dedication to solving complex problems. This portfolio includes hands-on IT Analyst projects focused on incident management, system monitoring, access control, and IT operations analysis.
 
 ## Skills
 
