@@ -9,7 +9,7 @@ I am a recent graduate with Bachelors in Computer Science and a profound interes
 |-----------------------------------------------|----------------------------|
 | Data Visualization for IT Operations          | <a href="https://github.com/TAtk101/IT-Operations-Dashboard">IT Operations Dashboard</a>|
 | IT Endpoint Health Monitoring | <a href="https://github.com/TAtk101/System-Health-Security-Log-Monitoring">System Health Monitor</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/TAtk101/Network-Traffic-Analysis">Network Traffic Analysis</a>|
 
 ## Tools
 
