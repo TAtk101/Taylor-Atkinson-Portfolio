@@ -29,3 +29,8 @@ I am a recent graduate with Bachelors in Computer Science and a profound interes
 </div>
 
 ## Projects
+<div>
+  <a href="https://github.com/TAtk101/ITIS-3135-Costco-App-Revamp">
+    <img src="https://img.shields.io/badge/-Costco%20App%20Redesign-107C10?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
