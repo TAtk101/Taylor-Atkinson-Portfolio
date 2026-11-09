@@ -33,4 +33,9 @@ I am a recent graduate with Bachelors in Computer Science and a profound interes
   <a href="https://github.com/TAtk101/ITIS-3135-Costco-App-Revamp">
     <img src="https://img.shields.io/badge/-Costco%20App%20Redesign-107C10?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>
+</div
+<div>
+  <a href="https://github.com/TAtk101/Fraud-Analysis.git">
+    <img src="https://img.shields.io/badge/-Fraud%20%20Analysis-107C17?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div
